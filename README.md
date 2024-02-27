@@ -1,1 +1,0 @@
-# day_2_intro_html_session_activity
