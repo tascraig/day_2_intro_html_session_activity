@@ -1,22 +1,14 @@
 
-# Environmental Awareness Project - Student Guide
+# Day 2 Intro HTML Session Activity
 
 ## Introduction
-
-Welcome to the Environmental Awareness Project! This project aims to educate students on the importance of environmental conservation through a hands-on web development experience. You will create a website consisting of several pages, each dedicated to different environmental conservation topics such as water conservation, recycling and waste management, and renewable energy.
+ You will create a website consisting of several pages, each dedicated to different environmental conservation topics such as water conservation, recycling and waste management, and renewable energy.
 
 ## Getting Started
 
-### Prerequisites
-
-- Basic understanding of HTML and CSS.
-- A GitHub account.
-- Git installed on your computer.
-- A text editor (e.g., VSCode, Sublime Text, Atom).
-
 ### Setup
 
-1. **Fork the Repository**: Navigate to the GitHub repository provided by your instructor. Click on the "Fork" button at the top right corner to create a copy of the repository in your GitHub account.
+1. **Fork the Repository**: Click on the "Fork" button at the top right corner to create a copy of the repository in your GitHub account.
 
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command in your terminal or command prompt:
 
@@ -29,7 +21,7 @@ Welcome to the Environmental Awareness Project! This project aims to educate stu
 3. **Navigate into the Project Directory**:
 
    ```bash
-   cd environmental-awareness-project
+   cd "the_repo_name"
    ```
 
 ## Project Structure
